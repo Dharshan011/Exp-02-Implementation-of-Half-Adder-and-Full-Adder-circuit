@@ -82,9 +82,15 @@ FULL ADDER
 ![WhatsApp Image 2023-03-27 at 9 23 29 AM](https://user-images.githubusercontent.com/113497491/228211694-6075fbdc-8ea7-4c90-aaa6-7381356046bf.jpeg)
 
 ### TRUTH TABLE 
+
 HALF ADDER
+
+
 ![Screenshot 2023-03-28 161343](https://user-images.githubusercontent.com/113497491/228211978-48d2b7f3-437f-4cba-8cfe-13da6861617c.png)
+
+
 FULL ADDER
+
 ![Screenshot 2023-03-28 161348](https://user-images.githubusercontent.com/113497491/228212028-db53ad67-0d8c-45e6-a469-bcb5f60e9bb8.png)
 ### Result:
 Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified
